@@ -6,3 +6,5 @@ python Resolving.py -gem ./2018_I10gem.txt -diag ./2015-pdd-diagnosis-code-frequ
 
 
 Note: I left the code that responsible for converting ICD9 diagnosis file into plain text file as comments at the top of the program, since I think it is unnecessary to create such file.
+
+By Yunze Hao
